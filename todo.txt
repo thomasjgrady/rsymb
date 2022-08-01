@@ -1,0 +1,7 @@
+[ ] Proper function parsing/evaluation
+[ ] Eval function return size of array returned
+[ ] Proper formatting for array expression
+[ ] Special case for * operator when multiplying two matrices together
+[ ] Kernel type for faster evalutation
+  [ ] Switch to reference-based design
+  [ ] Map of variable names to addresses of underlying data vector or slice
